@@ -30,6 +30,10 @@ if num1 in numeros_validos :
 else:
     print(f'O número {num1} não é um dado válido')
 
+#bucefalo
+
+
+
 
 
 
